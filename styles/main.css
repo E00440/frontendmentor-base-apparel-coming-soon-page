@@ -99,16 +99,6 @@ body {
   color: #ce9797;
 }
 
-.error-icon {
-  position: absolute;
-  top: 0;
-  right: 0;
-  margin-right: 25%;
-  margin-top: 0.6rem;
-  width: 30px;
-  height: 30px;
-}
-
 .arrow-button {
   width: 4rem;
   height: 3rem;
@@ -124,9 +114,28 @@ body {
 }
 
 .error-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 25%;
+  margin-top: 0.6rem;
+  width: 30px;
+  height: 30px;
+}
+
+.error-icon {
   display: none;
 }
 
+.error-text {
+  color: red;
+  margin-top: 0.3rem;
+  margin-left: 1rem;
+}
+
+.error-text {
+  display: none;
+}
 
 .footer-mobile {
   position: absolute;
