@@ -13,7 +13,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Desaturated Red: hsl(0, 36%, 70%)
+- Desaturated Red: #ce9797
 - Soft Red: hsl(0, 93%, 68%)
 
 ### Neutral
@@ -23,7 +23,7 @@ The designs were created to the following widths:
 ### Gradients
 
 - Linear, 135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%)
-- Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%)
+- Linear, 135deg, from #f8bfbf, to #ee8c8c
 
 ## Typography
 
