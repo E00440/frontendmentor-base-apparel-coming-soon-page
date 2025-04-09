@@ -114,6 +114,11 @@ body {
 }
 
 .error-icon {
+  display: none;
+}
+
+.display-error-icon {
+  display: initial;
   position: absolute;
   top: 0;
   right: 0;
@@ -123,18 +128,24 @@ body {
   height: 30px;
 }
 
-.error-icon {
-  display: none;
+.red-outline {
+  border: 1px solid red;
 }
 
-.error-text {
+.green-outline {
+  border: 1px solid green;
+}
+
+.display-error-text {
   color: red;
   margin-top: 0.3rem;
   margin-left: 1rem;
 }
 
-.error-text {
-  display: none;
+.display-thank-you-text {
+  color: green;
+  margin-top: 0.3rem;
+  margin-left: 1rem
 }
 
 .footer-mobile {
