@@ -18,7 +18,7 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- Dark Grayish Red: hsl(0, 6%, 24%)
+- Dark Grayish Red: #413a3a
 
 ### Gradients
 
