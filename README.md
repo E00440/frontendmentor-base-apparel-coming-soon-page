@@ -5,7 +5,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Solution URL: (https://github.com/E00440/frontendmentor-base-apparel-coming-soon-page)
+- Solution URL: (https://github.com/Emmanuel-Malik/frontendmentor-base-apparel-coming-soon-page)
 - Live Site URL: (https://frontendmentor-base-apparel-coming.netlify.app)
 
 
